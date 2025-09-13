@@ -1,2 +1,2 @@
-prin("Malina kamar")
+print("Malina kamar")
 print("QUyosh oy")
